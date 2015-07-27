@@ -1,0 +1,14 @@
+{
+	"server_address": "http://T2T-Release-LBS-790258663.ap-northeast-1.elb.amazonaws.com",
+  "socket_port": 3000,
+	"ios": {
+		"versions": ["1.1.0", "1.0.0"],
+		"deprated_versions": [],
+		"update_link": "http://www.google.com"
+	},
+	"android": {
+		"versions": ["1.1.0", "1.0.0"],
+		"deprated_versions": [],
+		"update_link": "https://play.google.com/store/apps/details?id=uk.co.animae.t2t"
+	}
+}
